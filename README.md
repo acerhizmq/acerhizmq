@@ -1,5 +1,5 @@
 # Hi 👋🏻 , I'm Acerhizm
-![Owner of Project GutsV](https://github.com/gutsv-project)
+[Owner of Project GutsV](https://github.com/gutsv-project)
 
 ![Profil View Count](https://komarev.com/ghpvc/?username=Acerhizmq&color=000000)&nbsp;
 [![GitHub Acerhizm](https://img.shields.io/github/followers/Acerhizmq?label=follow&style=social)](https://github.com/Acerhizmq)&nbsp;
